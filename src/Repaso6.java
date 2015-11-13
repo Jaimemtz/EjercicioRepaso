@@ -1,5 +1,5 @@
 /*
- * Repaso 6 
+ * Repaso6
  * es un programa que hace lo mismo que Repaso5
  * pero que sólo cambia el color del rectángulo
  * si se hace clic dentro de él
